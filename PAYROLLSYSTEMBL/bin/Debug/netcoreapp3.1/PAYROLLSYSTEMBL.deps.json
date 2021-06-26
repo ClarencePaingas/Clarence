@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "PAYROLLSYSTEMBL/1.0.0": {
+        "dependencies": {
+          "PAYROLLSYSTEMCommon": "1.0.0",
+          "PAYROLLSYSTEMDL": "1.0.0"
+        },
+        "runtime": {
+          "PAYROLLSYSTEMBL.dll": {}
+        }
+      },
+      "PAYROLLSYSTEMCommon/1.0.0": {
+        "dependencies": {
+          "PAYROLLSYSTEMDL": "1.0.0"
+        },
+        "runtime": {
+          "PAYROLLSYSTEMCommon.dll": {}
+        }
+      },
+      "PAYROLLSYSTEMDL/1.0.0": {
+        "runtime": {
+          "PAYROLLSYSTEMDL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PAYROLLSYSTEMBL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PAYROLLSYSTEMCommon/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PAYROLLSYSTEMDL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

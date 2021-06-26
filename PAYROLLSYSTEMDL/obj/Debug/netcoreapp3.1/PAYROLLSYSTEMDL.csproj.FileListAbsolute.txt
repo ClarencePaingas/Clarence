@@ -1,0 +1,9 @@
+C:\Users\Lillian\source\repos\PAYROLLSYSTEMUI\PAYROLLSYSTEMDL\bin\Debug\netcoreapp3.1\PAYROLLSYSTEMDL.deps.json
+C:\Users\Lillian\source\repos\PAYROLLSYSTEMUI\PAYROLLSYSTEMDL\bin\Debug\netcoreapp3.1\PAYROLLSYSTEMDL.dll
+C:\Users\Lillian\source\repos\PAYROLLSYSTEMUI\PAYROLLSYSTEMDL\bin\Debug\netcoreapp3.1\PAYROLLSYSTEMDL.pdb
+C:\Users\Lillian\source\repos\PAYROLLSYSTEMUI\PAYROLLSYSTEMDL\obj\Debug\netcoreapp3.1\PAYROLLSYSTEMDL.csproj.AssemblyReference.cache
+C:\Users\Lillian\source\repos\PAYROLLSYSTEMUI\PAYROLLSYSTEMDL\obj\Debug\netcoreapp3.1\PAYROLLSYSTEMDL.AssemblyInfoInputs.cache
+C:\Users\Lillian\source\repos\PAYROLLSYSTEMUI\PAYROLLSYSTEMDL\obj\Debug\netcoreapp3.1\PAYROLLSYSTEMDL.AssemblyInfo.cs
+C:\Users\Lillian\source\repos\PAYROLLSYSTEMUI\PAYROLLSYSTEMDL\obj\Debug\netcoreapp3.1\PAYROLLSYSTEMDL.csproj.CoreCompileInputs.cache
+C:\Users\Lillian\source\repos\PAYROLLSYSTEMUI\PAYROLLSYSTEMDL\obj\Debug\netcoreapp3.1\PAYROLLSYSTEMDL.dll
+C:\Users\Lillian\source\repos\PAYROLLSYSTEMUI\PAYROLLSYSTEMDL\obj\Debug\netcoreapp3.1\PAYROLLSYSTEMDL.pdb

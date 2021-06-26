@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PAYROLLSYSTEMUI", "PAYROLLSYSTEMUI\PAYROLLSYSTEMUI.csproj", "{8A215834-39D7-4E12-A38F-2EE4515638B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PAYROLLSYSTEMBL", "PAYROLLSYSTEMBL\PAYROLLSYSTEMBL.csproj", "{413B59D7-4C96-4978-A3B6-C1306C1714B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PAYROLLSYSTEMDL", "PAYROLLSYSTEMDL\PAYROLLSYSTEMDL.csproj", "{836774FC-F34A-46E6-92BC-4D4441E7FC87}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PAYROLLSYSTEMCommon", "PAYROLLSYSTEMCommon\PAYROLLSYSTEMCommon.csproj", "{58AA15DF-675F-4D41-901C-1CFAD857832C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A215834-39D7-4E12-A38F-2EE4515638B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A215834-39D7-4E12-A38F-2EE4515638B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A215834-39D7-4E12-A38F-2EE4515638B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A215834-39D7-4E12-A38F-2EE4515638B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{413B59D7-4C96-4978-A3B6-C1306C1714B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{413B59D7-4C96-4978-A3B6-C1306C1714B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{413B59D7-4C96-4978-A3B6-C1306C1714B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{413B59D7-4C96-4978-A3B6-C1306C1714B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{836774FC-F34A-46E6-92BC-4D4441E7FC87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{836774FC-F34A-46E6-92BC-4D4441E7FC87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{836774FC-F34A-46E6-92BC-4D4441E7FC87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{836774FC-F34A-46E6-92BC-4D4441E7FC87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58AA15DF-675F-4D41-901C-1CFAD857832C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58AA15DF-675F-4D41-901C-1CFAD857832C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58AA15DF-675F-4D41-901C-1CFAD857832C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58AA15DF-675F-4D41-901C-1CFAD857832C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {34F272B0-E7B1-411B-BA51-5371A59679BC}
+	EndGlobalSection
+EndGlobal
